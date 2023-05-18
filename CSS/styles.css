@@ -1,0 +1,196 @@
+body {
+    /* border: 10px white solid; */
+    max-width: 100%;
+    border: 50px white solid;
+    background-color: #FAF9F7;
+    margin: 0 auto;
+}
+
+/* HEADER AMB LOGO I NAV*/
+header {
+    /* border: 1px black solid; */
+    /* background-color: #E8E6E1; */
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#logo {
+    /* border: 1px black solid; */
+    padding-top: 80px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+nav {
+    height: 60px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+ul {
+    /* border: 1px green solid; */
+    list-style: none;
+    text-align: center;
+    margin: 0px auto;
+    padding: 18px;
+    /* border-right: 2 px black solid; */
+    text-decoration: none;
+}
+
+
+li {
+    /* border: 4px black solid; */
+    font-family: 'Montserrat', serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 16px;
+    display: inline-block;
+    padding: 0px 32px;
+    border-right: 1px solid black;
+}
+
+#menu-qui {
+    border-left: 1px solid black;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    font-weight: 800;
+    border-bottom: 6px gold solid;
+
+}
+
+a:visited {
+    color: black;
+
+}
+
+/* SECCIO QUI SOM */
+
+.qui-som {
+    border: 1px black solid;
+    display: inline-block;
+
+}
+
+.text-descripcio {
+    /* border: 1px black solid; */
+    display: inline-block;
+    max-width: 40%;
+    font-size: 28px;
+    font-style: italic;
+    padding-left: 20px;
+    margin-bottom: 100px;
+
+}
+
+
+
+
+/* IMAGE SEPARADOR */
+.separador {
+    /* margin-top: 50px; */
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+
+
+/* SECCIÓ ESPECIAL (AVUI RECOMANEM) */
+
+.especial {
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.recomanem {
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    margin-right: 10px;
+    margin: 0 auto%;
+    max-width: 100%;
+}
+
+h2 {
+    font-family: Playfair;
+    font-size: 32px;
+    font-style: italic;
+}
+
+
+p {
+    font-family: Playfair;
+    font-size: 22px;
+}
+
+.fotoapat {
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+}
+
+/* QUE FEM */
+
+.que_fem {
+    width: 95%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.productes {
+    /* border: 1px black solid; */
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Montserrat', serif;
+}
+
+.descripcio_producte {
+    /* border: 1px black solid; */
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+}
+
+
+/* FOOTER */
+footer {
+
+    /* border: 1px black solid; */
+    background-color: #B8B2A7;
+    text-align: center;
+    /* margin: 0 auto; */
+    /* width: 100%; */
+    height: auto;
+    /* height: 300px; */
+    /* letter-spacing: 2px; */
+    font-size: 16px;
+    padding: 10% 10%;
+}
+
+h1 {
+    font-family: 'Montserrat', serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+
+
+
